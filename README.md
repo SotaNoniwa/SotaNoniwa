@@ -1,6 +1,4 @@
 
-# Hello there 👋
-
 ![Alt text](images/myself.jpg)
 
 <!-- # 🚀 Projects: -->
